@@ -1,4 +1,4 @@
-# Withered Highways by mike3128 (Custom Map for Bad Business)
+# Withered Pathways by mike3128 (Custom Map for Bad Business)
 The following repository you're seeing here is made and optimized for a Roblox game called, Bad Business. Here you'll see that there is a set of numbers and letters existing within a "custom map" that is supposed to be played. In which it is played by clicking on a map's RAW and copying it's URL, and pasting it to the game's importmap feature.
 
 # How it works
